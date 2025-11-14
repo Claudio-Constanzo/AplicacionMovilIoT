@@ -1,4 +1,4 @@
-package com.example.aplicacionmoviliot.Screens
+package com.example.aplicacionmoviliot.screens
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.text.KeyboardOptions

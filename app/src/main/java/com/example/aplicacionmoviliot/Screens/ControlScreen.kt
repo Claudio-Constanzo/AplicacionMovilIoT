@@ -1,4 +1,4 @@
-package com.example.aplicacionmoviliot.screens
+package com.example.aplicacionmoviliot.Screens
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
