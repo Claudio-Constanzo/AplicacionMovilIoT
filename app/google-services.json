@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161434606797",
+    "project_id": "com.company.aplicacionmoviliot",
+    "storage_bucket": "sensorgas-4a09e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161434606797:android:fab6a0310e7bd371699d84",
+        "android_client_info": {
+          "package_name": "com.company.aplicacionmoviliot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEaa5lSHo6M9j_AAXHb0J0yduTXCkjIGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161434606797:android:dd17df1c453ba5fc699d84",
+        "android_client_info": {
+          "package_name": "com.company.aplicacionmoviliot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEaa5lSHo6M9j_AAXHb0J0yduTXCkjIGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
